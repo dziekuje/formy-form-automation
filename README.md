@@ -12,3 +12,5 @@ WebForm: A form class that includes all the locators, variables and methods for 
 A step-by-step tutorial is located here: 
 
 https://medium.com/software-testing-break-and-improve/intellij-idea-selenium-webdriver-automated-web-tests-with-page-objects-in-15-minutes-50aff32b7492
+
+https://www.youtube.com/watch?v=rirMN72XDr0
